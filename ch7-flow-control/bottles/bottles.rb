@@ -20,7 +20,6 @@ def bottles_num(counter)
 end
 
 counter = 99
-plural = ""
 
 while counter >= 0
 
